@@ -1,0 +1,11 @@
+How did learning diff help?
+
+it was easy to find the difference and identify the bug. It would take hours to find it manually.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Use git log to view the commit history and use git diff to view different commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+Because we know that we have the last stable code available so we can experiment freely.

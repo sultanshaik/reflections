@@ -1,0 +1,11 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+So that we can commit ech section separately
+and also compare.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Add a single file and then commit. Then add the other sections and commit.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help when we are working on a completely different feature and we would like to keep a tab on our changes without modifying the stable code.
